@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uya:home|Door43 (uya)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uya|d43-uya repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uya/archive/master.zip|d43-uya.zip]]
+
+**Recent Changes**
+{{changes>ns = uya}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uya|Ethnologue data]]
+
